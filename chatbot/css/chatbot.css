@@ -162,24 +162,6 @@
     height: auto;
   }
    
-  .emoji {
-    position: absolute;
-    width: 90px;
-    height: 90px;
-  }
-   
-  .emoji-1 {
-    top: 20%;
-    right: 5%;
-    animation: float 3s ease-in-out infinite;
-  }
-   
-  .emoji-2 {
-    bottom: 20%;
-    left: 7%;
-    animation: float 3s ease-in-out infinite 1.5s;
-  }
-   
   .telegram-logo {
     position: absolute;
     width: 170px;
@@ -251,11 +233,6 @@
         padding: 0.8rem 1.5rem;
         font-size: 1rem;
         width: 100%;
-    }
-   
-    .emoji {
-        width: 40px;
-        height: 40px;
     }
    
     .telegram-logo {
